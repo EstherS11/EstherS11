@@ -1,6 +1,3 @@
-# introduciton to R
-# author: shuo zhang, group628.llc  
-
 # set working directory
 getwd() # if not set, the default is root directory
 setwd("~/Desktop") # change working directory
